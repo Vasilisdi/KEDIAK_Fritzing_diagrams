@@ -21,7 +21,7 @@ This project, associated with the RISKAC research program, aims to collect envir
 - **Data Storage and Management**: Data collected by the sensors is stored in CSV files using Spyder platform. The last instance of stored data is then stored in a database for further analysis and retrieval.
 - **3D-Printed Case**: A protective case with humidity-removing extruded features has been 3D-printed to safeguard electronic components and ensure reliable operation in varying environmental conditions.
 
-## Project Progression on Kicad
+## Project Progression on Fritzing
 
 Below are visual representations of the project in the Fritzing environment:
 
